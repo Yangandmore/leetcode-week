@@ -1,7 +1,7 @@
-pub mod t1;
-pub mod t2;
+pub mod week_1;
+pub mod week_2;
 
 
 fn main() {
-    //
+
 }
